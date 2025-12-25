@@ -1,0 +1,967 @@
+{
+  "profile": {
+    "name": "Yousef Shanawany",
+    "title": "10+ Year Full Stack Developer | Lead Engineer at Innovation Team (Riyadh)",
+    "location": "Riyadh, Saudi Arabia",
+    "connections": 310,
+    "followers": 365,
+    "profileViews": 34,
+    "postImpressions": 16,
+    "searchAppearances": 15,
+    "publicUrl": "www.linkedin.com/in/askyous",
+    "about": "13 years of experience as full stack web developer. React, NextJS, ASP.Net, Database, Servers, Cloud, Docker... I love and enjoy building and managing web applications, whether they are full-managed CRMs, or platforms used to control physical devices. Internal or external facing. Most of my experience comes from developing websites, but I am also experienced in leadership and management."
+  },
+  "experience": [
+    {
+      "company": "InnovationTeam",
+      "location": "Riyadh, Saudi Arabia",
+      "employmentType": "Full-time",
+      "duration": "2 yrs 11 mos",
+      "workType": "On-site",
+      "positions": [
+        {
+          "title": "Engineering Lead",
+          "startDate": "Apr 2023",
+          "endDate": "Present",
+          "duration": "2 yrs 9 mos",
+          "description": "Lead a team of developers across various web application projects to ensure engineering excellence. Provided developers with necessary AWS services, set up CI/CD pipeline, and managed engineering team using agile methedologies (daily stand-ups, sprints, tasks, user stories, etc.)",
+          "skills": [
+            "Agile Methodologies",
+            "Scrum",
+            "DevOps",
+            "Amazon Web Services (AWS)",
+            "Engineering Leadership"
+          ]
+        },
+        {
+          "title": "Front End Developer",
+          "startDate": "Feb 2023",
+          "endDate": "Apr 2023",
+          "duration": "3 mos",
+          "description": "Front end developer for ticketing service web application.",
+          "skills": [
+            "Front-End Development",
+            "React.js",
+            "Git",
+            "AWS CodeCommit",
+            "Communication",
+            "Agile Methodologies",
+            "Style Guides",
+            "Scrum",
+            "Vanilla JavaScript",
+            "Bootstrap",
+            "TypeScript"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "CloudKitchens",
+      "location": "United States",
+      "employmentType": "Full-time",
+      "duration": "8 mos",
+      "workType": "Hybrid",
+      "positions": [
+        {
+          "title": "Senior Frontend Developer",
+          "startDate": "Jul 2022",
+          "endDate": "Feb 2023",
+          "duration": "8 mos",
+          "description": "Web Full-Stack Developer - React, TypeScript, Bazel, GraphQL, monorepo, phabricator, git, zustand, lodash, styled components.",
+          "skills": [
+            "Agile Project Management",
+            "DevOps",
+            "React.js",
+            "Git",
+            "Agile Application Development",
+            "Communication",
+            "Agile Methodologies",
+            "Apollo GraphQL",
+            "Style Guides",
+            "Mixpanel",
+            "Bazel",
+            "Full-Stack Development",
+            "Scrum",
+            "Vanilla JavaScript",
+            "Front End Engineering Design (FEED)",
+            "TypeScript",
+            "Phabricator",
+            "storybook"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Flex",
+      "location": "San Jose, California, United States",
+      "employmentType": "Full-time",
+      "duration": "10 yrs 1 mo",
+      "positions": [
+        {
+          "title": "Senior Software Engineer, Global IT",
+          "startDate": "Jul 2012",
+          "endDate": "Jul 2022",
+          "duration": "10 yrs 1 mo",
+          "skills": [
+            "CSS",
+            "ASP.NET",
+            "Entity Framework",
+            "Front-End Development",
+            "Amazon Web Services (AWS)",
+            "DevOps",
+            "React.js",
+            "Databases",
+            "Communication",
+            "Cloud Computing",
+            "Style Guides",
+            "ASP.NET Core",
+            ".NET Framework",
+            "Enterprise Solution Design",
+            "Full-Stack Development",
+            "Web Development",
+            "Vanilla JavaScript",
+            "Front End Engineering Design (FEED)",
+            "Microsoft Bot Framework",
+            ".NET Core",
+            "Blazor",
+            "System Architecture",
+            "Back-End Web Development",
+            "Azure DevOps Server",
+            "Angular"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "That's It Guys",
+      "location": "ThatsItGuys",
+      "employmentType": null,
+      "duration": "1 yr 9 mos",
+      "positions": [
+        {
+          "title": "Writer",
+          "startDate": "Aug 2010",
+          "endDate": "Apr 2012",
+          "duration": "1 yr 9 mos",
+          "description": "Provided news content as a technical writer.",
+          "skills": [
+            "Communication",
+            "Technical Writing",
+            "Technical Research"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "San José State University",
+      "degree": "Bachelor's degree, Computer Software Engineering",
+      "startDate": "2011",
+      "endDate": "2014",
+      "activities": "Muslim Student Association, Society for Computer Engineers",
+      "skills": [
+        "Front End Engineering Design (FEED)",
+        "ASP.NET Web API",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Databases",
+        "Agile Application Development",
+        "Communication",
+        "Cloud Computing",
+        "ASP.NET Core",
+        "Agile Methodologies",
+        "Full-Stack Development"
+      ]
+    },
+    {
+      "institution": "Evergreen Valley College",
+      "degree": null,
+      "startDate": "2009",
+      "endDate": "2011"
+    },
+    {
+      "institution": "freeCodeCamp",
+      "degree": "Front End Web Development Certificate, Computer Software Engineering",
+      "startDate": "2018",
+      "endDate": "2018",
+      "skills": [
+        "Front End Engineering Design (FEED)",
+        "Vanilla JavaScript"
+      ]
+    },
+    {
+      "institution": "Valencia College",
+      "degree": null,
+      "startDate": "Aug 2008",
+      "endDate": "2009"
+    },
+    {
+      "institution": "YESI EDUCATION",
+      "degree": null,
+      "startDate": "May 2024",
+      "endDate": "Jun 2024",
+      "certifications": [
+        "Agile Certified Badge",
+        "Agile Crash Course: Agile Project Management; Agile Delivery (completed 06/02/2024)"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Programming Foundations: Data Structures",
+      "issuer": "LinkedIn",
+      "issueDate": "Dec 2018",
+      "skills": [
+        "Vanilla JavaScript"
+      ]
+    },
+    {
+      "name": "Shaping up with Angular.js",
+      "issuer": "Code School",
+      "skills": [
+        "Vanilla JavaScript"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Data Assetization Tool (DGT)",
+      "startDate": "Oct 2025",
+      "endDate": "Present",
+      "company": "InnovationTeam",
+      "description": [
+        "Developed a full-stack monorepo application to automate and enhance the release verification process, eliminating frequent manual artifact verification",
+        "Built a Node.js/Express backend (TypeScript) that receives BitBucket webhooks and uses AI to validate artifacts (Word documents, PDFs, CSVs) within commits",
+        "Created a React frontend (Vite + TypeScript) with Material-UI dashboard for administrators to visualize validation scores and statuses",
+        "Implemented automated Jira issue creation for failed release validations on scheduled intervals via BitBucket pipelines",
+        "Designed and deployed the application using Docker Compose with auto-deployment to AWS App Runner",
+        "Architected a monorepo structure using npm workspaces for efficient dependency management and development workflow",
+        "Integrated with Atlassian APIs (BitBucket and Jira) for seamless workflow automation",
+        "Tools used/learned: Node.js, Express, TypeScript, React, Vite, Material-UI, Redux Toolkit, Docker, Docker Compose, AWS App Runner, BitBucket API, Jira API, npm workspaces, webhooks"
+      ],
+      "skills": [
+        "Full-Stack Development",
+        "TypeScript",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "Amazon Web Services (AWS)",
+        "Docker / Containerization",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "System Architecture",
+        "REST APIs",
+        "Webhooks"
+      ]
+    },
+    {
+      "name": "Loyalty Frontend",
+      "startDate": "Aug 2025",
+      "endDate": "Oct 2025",
+      "company": "InnovationTeam",
+      "description": [
+        "Developed frontend application as Frontend Lead for a React + TypeScript + Vite application with comprehensive authentication and internationalization features",
+        "Architected and implemented OIDC-based authentication system with type-safe hooks for secure user authentication",
+        "Built multi-language support (English/Arabic) with RTL (Right-to-Left) layout support using i18next and react-i18next",
+        "Developed a comprehensive UI component library using shadcn/ui and Radix UI primitives for consistent design system",
+        "Implemented state management using React Query for server state and React Context for application state",
+        "Set up testing infrastructure with Vitest and React Testing Library for comprehensive test coverage",
+        "Created reusable authentication hooks (useAuth and useAuthenticatedUser) for type-safe authentication throughout the application",
+        "Configured build pipeline with Vite, TypeScript, ESLint, and Docker for containerization",
+        "Tools used/learned: React 19, TypeScript, Vite, Tailwind CSS, Radix UI, shadcn/ui, React Query, React Router, i18next, OIDC, Vitest, React Testing Library, Docker, ESLint"
+      ],
+      "skills": [
+        "Front-End Development",
+        "React.js",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "State Management",
+        "Internationalization",
+        "OAuth",
+        "Unit Testing",
+        "Technical Leadership",
+        "UI/UX Design"
+      ],
+      "status": "Not released - Project discontinued"
+    },
+    {
+      "name": "Gen AI Platform",
+      "startDate": "May 2025",
+      "endDate": "Jul 2025",
+      "company": "InnovationTeam",
+      "description": "As the Tech Lead and Scrum Master, I guided the team in building a comprehensive, enterprise-grade generative AI solution. The project's purpose was to create a scalable platform by integrating a Java-based backend with a sophisticated Python RAG service. In my dual capacity, I led the team's agile process, facilitating all Scrum ceremonies to ensure clear communication and consistent delivery. Concurrently, I was responsible for maintaining the project's cloud infrastructure on AWS, ensuring stability and performance. I also oversaw the automated CI/CD pipeline, which used Azure Pipelines and Docker to build and deploy our applications, stepping in to resolve technical impediments and optimize the workflow. My leadership across process, infrastructure, and deployment created a stable and efficient environment for the development team. This holistic approach was instrumental in the successful and timely delivery of the Gen AI platform's core services.",
+      "skills": [
+        "Agile Project Management",
+        "Amazon Web Services (AWS)",
+        "Infrastructure as a Service (IaaS)",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Azure DevOps Server",
+        "Docker / Containerization",
+        "Technical Leadership"
+      ]
+    },
+    {
+      "name": "Smart Marketing Plan AI Website (smartmarketingplan.ai)",
+      "startDate": "Sep 2024",
+      "endDate": "Jun 2025",
+      "description": [
+        "Developed full stack application to generating a market plan for businesses using AI.",
+        "Used NextJS, Vite unit testing, Tailwind CSS, Typescript, Vercel, GitHub, etc.",
+        "Used various AI APIs to generate JSON objects returned from LLMs to convert them to UI (via React components)"
+      ],
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "NextJS",
+        "Vercel",
+        "Unit Testing"
+      ],
+      "hasOtherContributors": true
+    },
+    {
+      "name": "Government Camping Reservation Platform",
+      "startDate": "Jul 2024",
+      "endDate": "Apr 2025",
+      "company": "InnovationTeam",
+      "description": "As the Engineering Lead and DevOps/Infrastructure Maintainer, I led the architecture and development of a comprehensive digital ecosystem from the ground up. This multi-faceted platform included a public-facing web portal, a cross-platform mobile application, and a robust suite of backend microservices. My responsibilities included: - Leading the technical direction and development across a monorepo containing a Next.js (React) web portal, a React Native (Expo) mobile app, and Java/Spring Boot microservices. - Designing, implementing, and maintaining the entire CI/CD lifecycle using Azure DevOps, which automated builds, testing, and deployments across all project components. - Architecting and managing the cloud infrastructure on AWS, utilizing EC2 instances, Elastic Load Balancing for secure HTTPS traffic management, and Route 53 for DNS. - Implementing containerization strategies with Docker and enforcing code quality standards using SonarQube.",
+      "skills": [
+        "Engineering Leadership",
+        "Agile Application Development",
+        "Azure DevOps Server",
+        "Amazon Web Services (AWS)",
+        "DevOps",
+        "Shell Scripting"
+      ]
+    },
+    {
+      "name": "Service Request Management Platform",
+      "startDate": "Feb 2023",
+      "endDate": "Apr 2025",
+      "company": "InnovationTeam",
+      "description": [
+        "Created a SPA platform that allowed employees to look at service requests and make decisions such as approve, reject, etc.",
+        "Frontend lead, managing a team of 3 other frontend developers, 2 of them seniors",
+        "Ran daily standup meetings with frontend team to check progress",
+        "Utilized Kanban board to manage tasks and sprints",
+        "Occasionally acted as technical lead for entire team (frontend and backend)",
+        "Used Swagger to negotiate API design with backend team",
+        "Used React Query to handle loading, error, and success states in asynchronous operations",
+        "Set up Azure DevOps to host, build, and lint source code",
+        "Used Azure DevOps to manage versions, secure branches, and apply pull request policies",
+        "Provided a SPA for employees to handle incoming requests from users of another platform",
+        "Set up a language React context to provide translations to all text displayed on the screen for Arabic or English speaking users",
+        "Managed a team, Agile, Scrum, project management, and technical leadership"
+      ],
+      "skills": [
+        "ASP.NET Core",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        "Agile Application Development",
+        ".NET Framework",
+        "Agile Methodologies",
+        "Git",
+        "Style Guides",
+        "Entity Framework",
+        "React.js",
+        "Agile Project Management",
+        "Azure DevOps Server",
+        "Microsoft Visual Studio Code",
+        "DevOps",
+        "Scrum",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Technical Product Management",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Chatbot Database",
+      "startDate": "Jul 2022",
+      "endDate": "Jul 2024",
+      "company": "Flex",
+      "description": [
+        "Lead developer in a team to build a C# Library that can be imported into multiple projects to interact with database using ORM",
+        "Allowed interaction with the database for backend and frontend solutions (via Blazor Server).",
+        "Used database migrations to track history of database schema",
+        "Designed database schema using code-first entity framework containing almost 40 database tables.",
+        "Added additional methods to database models in C# to extend functionality",
+        "Tools used/learned: C#, ASP.Net, Entity Framework Core, Visual Studio, Nuget Package Manager, SQL Server, Database Migrations, SQL Server Management Studio, Azure Data Studio, QnA Maker, LUIS API, Git, Azure Devops"
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Microsoft Bot Framework"
+      ]
+    },
+    {
+      "name": "manager.tryotter.com",
+      "startDate": "Aug 2022",
+      "endDate": "Feb 2023",
+      "company": "CloudKitchens",
+      "url": "https://manager.tryotter.com",
+      "description": [
+        "Front End Developer to help with the user sign-up and upsell process",
+        "Worked with a team of about 8 people using via scrum and agile",
+        "React, TypeScript, Bazel, Storybook, Styles Components, and git"
+      ],
+      "skills": [
+        "Agile Application Development",
+        "Agile Methodologies",
+        "Vanilla JavaScript",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
+      "name": "General Bot Platform",
+      "startDate": "Dec 2020",
+      "endDate": "Jul 2022",
+      "company": "Flex",
+      "description": [
+        "Lead developer in a team to create a cloud web app platform that creates and manages chatbots without the need of re-coding",
+        "Over 20 chatbots deployed and 2,000 active monthly unique users",
+        "Saved employees weeks worth of work required to create, maintain, and test a chatbot",
+        "Created a single universal dynamic chatbot that acts as different bots depending on the URL",
+        "Presented the platform in online presentation to 100 Flex employees",
+        "Features for each bot can be enabled by updating a single database row rather than re-coding",
+        "Features that can be toggled include OAuth authentication which has unique configurations per chatbot",
+        "Feature configuration can be configured by updating database records without the need of any code",
+        "Converted 1 huge project into reusable sub-projects shared with other sub-projects",
+        "Over 10 new features/updates deployed each month",
+        "Run monthly update meetings with team to include user stats, updates, and task completions",
+        "Deployed via Devops and git branches and GitFlow workflow.",
+        "Used Object Relational Model code-first library to connect code to database (Entity Framework).",
+        "Implemented a logging layer to store chat logs for each bot and provide analytics and stats to chatbot admin users.",
+        "Deployed packages to Azure Artifacts for other developers to download and use in their chatbot code",
+        "Tools used/learned: C#, ASP.Net Core, Entity Framework Core, Azure, Azure App Service, Google Analytics, Microsoft Bot Framework, Microsoft Bot Emulator, Dependency Injection, Blazor Server, Bootstrap, Authentication & Authorization, Azure Devops, Continuous Deployment, Azure Devops Boards, Git, Continuous Deployment, Git Flow workflow, Azure Artifacts, Machine Learning & AI, Natural Language Processing (NLP), Microsoft QnA Maker, LUIS.ai"
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Microsoft Bot Framework"
+      ]
+    },
+    {
+      "name": "Global Helpdesk Chatbot",
+      "startDate": "Nov 2021",
+      "endDate": "Jul 2022",
+      "company": "Flex",
+      "description": [
+        "Lead developer in a team of 7 people to build an advanced powerful chatbot to act as a virtual IT assistant to employees",
+        "Met with business team on a weekly basis to convert meeting notes/emails to requirements",
+        "Distributed work across a development team using Azure Devops Boards",
+        "1,500 active monthly users (part of the Cortex General Bot users)",
+        "Inherited project where I first fixed poorly designed code from the previous developer including removing duplicate code.",
+        "Added multi language support where chatbot administrators train the chatbot once in English, and the chatbot automatically can understand and speak 70 different languages.",
+        "Tools used/learned: C#, ASP.Net Core, Nuget Package Manager, Entity Framework Core, Azure, Azure App Service, Google Analytics, Microsoft Bot Framework, Adaptive Cards, Microsoft Bot Emulator, Dependency Injection, LUIS AI, QnA Maker, Blazor Server, Bootstrap, OAuth, OKTA, Authentication, Azure Devops, Azure Devops Boards, Continuous Deployment, Git, Continuous Deployment, Git Flow Workflow"
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Microsoft Bot Framework"
+      ]
+    },
+    {
+      "name": "LUIS Handlers Web API",
+      "startDate": "Oct 2021",
+      "endDate": "Nov 2021",
+      "company": "Flex",
+      "description": [
+        "A back-end API for chatbots to call when users ask questions with variables",
+        "Received machine learning-generated \"entities\" from user-generated chatbot sentences",
+        "Calls external APIs and services to retrieve data to generate chatbot answers",
+        "Used API key for authorization",
+        "Retrieved SharePoint data via Microsoft Graph API",
+        "Tools used/learned: C#, ASP.Net Core MVC API, Nuget Package Manager, Microsoft Graph, SharePoint Lists, SharePoint subsite, Azure, Azure App Service, Adaptive Cards, LUIS AI, Azure Devops, Git"
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Microsoft Bot Framework"
+      ]
+    },
+    {
+      "name": "Remote-Controlled Tableau Screens (STS)",
+      "startDate": "Jun 2021",
+      "endDate": "Jul 2021",
+      "company": "Flex",
+      "description": [
+        "Lead developer in a web app deployed in China for Business and IT Project Team",
+        "Developerd a cloud web application to let business team display Tableau graphical dashboards across multiple devices (TV screens) at once",
+        "Consisted of another device that controls the TV screens wirelessly using Microsoft's Signal R, as if it was a remote control, all using the user's web browser. No seperate hardware required.",
+        "Created a requirements list based off meetings with the business team",
+        "Created and presented mobile-friendly UI mockups using Adobe XD",
+        "Utilized the IObservable<T> C# Interface to notify subscribing clients of changes in real time",
+        "Consisted of an admin page to customize TV screen display options",
+        "Added security to check authorization permissions to decide if certain data can be accessed by the current authenticated user",
+        "Created seperate C# project library for database (ie. SharePoint Lists) data management and authorization",
+        "Tools used: ASP.Net, Dot Net Core, Blazor Server Side, Azure, Azure Signal R, Azure App Service, C#, Obervable design pattern, Microsoft Graph, OAuth 2.0, HTML/CSS/JS, Tableau Embed API, Iframes, Adobe XD, Mobile UI/UX Design, SharePoint, SharePoint Lists, SharePoint Security (ie. Authoization Permissions), Git, Azure Devops, Visual Studio"
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Blazor"
+      ]
+    },
+    {
+      "name": "PSL Supplier Browser",
+      "startDate": "Feb 2021",
+      "endDate": "Mar 2021",
+      "company": "Flex",
+      "description": [
+        "A front-end web application that allows users to filter through Flex suppliers",
+        "Used HTML5 web components to define custom elements",
+        "Hosted in an existing SharePoint site",
+        "Created mockup in Adobe XD to be approved by business team before implementation",
+        "Search results update instantly as user types in input fields",
+        "Input fields implement auto-complete by utilizing <datalist> HTML element and \"list\" input attribute.",
+        "Datalist items were fetched dynamically",
+        "Tools used/learned: HTML, CSS, JS, JSDoc, ASPX, SharePoint, TypeScript, Promises, Asynchronous Parallel Programming, Git, Fetch API"
+      ],
+      "skills": [
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Vanilla JavaScript",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
+      "name": "Virtual Assistant ML-Powered Chatbot \"XplorIT\"",
+      "startDate": "Dec 2020",
+      "endDate": "Feb 2021",
+      "company": "Flex",
+      "description": [
+        "A chatbot where users can ask about applications used at Flex using native english to talk to it",
+        "Worked with developer and head of existing application to read data from their database using API.",
+        "Users can ask in native English what a specific software application does, and who owns it, VPN information about a product, product documentation URL, product capabilities, and the user can ask what products are owned by a specific employee.",
+        "Saves users from having to manually research different applications used in Flex. Can get app information in seconds with the power of voice and text.",
+        "Converted external REST API into a C# SDK",
+        "Tools used/learned: C#, C# Extension Methods, Object Oriented Programming & Design, ASP.Net Core, Visual Studio, Nuget Package Manager, Azure, Azure App Hosting Service, Azure Bot Framework, Bot Framework Web Chat, LUIS AI, Machine Learning, Google Analytics, Git, Azure Devops, OAuth, OKTA, Microsoft Graph API, Adaptive Cards, Azure Artifacts, QnA Maker, APIs."
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Microsoft Bot Framework"
+      ]
+    },
+    {
+      "name": "Bot Editor",
+      "startDate": "Oct 2019",
+      "endDate": "Oct 2020",
+      "company": "Flex",
+      "description": [
+        "Rewrite and upgrade of Custom QnA",
+        "An internal cloud web application for chatbot administrators to manage their chatbots",
+        "100 active chatbot administrator users per month with a 20 minute average engagement time",
+        "Used OAuth to authenticate users",
+        "Used role-based permissions to authorize users to perform role-specific actions",
+        "Reused code from other chatbot projects to remove code duplication",
+        "Re-created Microsoft's QnA Maker web app using their APIs to customize to our requirements",
+        "Users can manage their machine-learning training model by modifying its training data",
+        "Used pagination to display large amounts of information without having performance issues.",
+        "Users can review questions received and answers generated by their chatbot to increase the intelligence of their chatbot.",
+        "Created a test environment for users to interact with their chatbot before deploying it to production",
+        "Displayed analytical data using charts and downloadable excel sheet data",
+        "Allowed users to configure scheduled reports to be emailed to their inbox automatically",
+        "Allowed users to configure their confidence level requirement and answering algorithm to decide which answer the chatbot should give when deciding between multiple machine-learning answers",
+        "Tools used/learned: Blazor server, C#, ASP.Net Core, SPA, OAuth, OKTA, FLurl, JSON, LUIS AI, Entity Framework Core, Visual Studio, Azure App Service, SQL Server, Microsoft QnA Maker, Bootstrap, Nuget Package Manager"
+      ],
+      "skills": [
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Blazor"
+      ]
+    },
+    {
+      "name": "Custom QnA",
+      "startDate": "Oct 2019",
+      "endDate": "Oct 2020",
+      "company": "Flex",
+      "description": [
+        "Re-write of existing internal React web app to help users manage machine learning data for their chatbots",
+        "Allowed chatbot administrators to train, review, improve, and test chatbot machine learning model before deploying to production",
+        "Wrote NodeJS script to automate and convert react compiled code to .ASPX format to fix compatibility issues with Microsoft SharePoint.",
+        "Rewritten in C# to simplify code with the backend for easier maintenance and testing",
+        "Tools used/learned: React, Create React App, React Router, Git, Azure Devops, TypeScript, JavaScript, Dot Env, Environment Variables, Bootstrap, ReactStrap, Google Analytics, NPM, NodeJS, Microsoft Graph, Microsoft Adaptive Cards, React Bootstrap Typeahead, VS Code"
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
+      "name": "Box Direct - Directly Serve Files from Box",
+      "startDate": "Mar 2020",
+      "endDate": "Jun 2020",
+      "company": "Flex",
+      "description": [
+        "Lead developer for Sass \"Box Direct\", which allowed users to upload files and directly link to them without any authentication layer",
+        "Used .Net framework to interact with the Box API to upload and serve files directly",
+        "Authenticated users using OKTA and OAuth"
+      ],
+      "skills": [
+        ".NET Core",
+        "Git",
+        "Box",
+        "Microsoft Azure",
+        "Bootstrap",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
+      "name": "Virtual Assistant ML-Powered Chatbot \"Flexo\"",
+      "startDate": "Jun 2019",
+      "endDate": "Mar 2020",
+      "company": "Flex",
+      "description": [
+        "Converted a template \"Echo Bot\" (that just echos what you say) to a full-working virtual personal assistant chatbot",
+        "Takes user input from text and voice (meaning the user can talk to it using their voice and it speaks it back to them)",
+        "Converted manager's requirements to a working software",
+        "Saves users time from manually researching their Active Directory information or their emails and calendar",
+        "Used machine learning to train bot so it can predict the user's intent when they ask questions",
+        "Utilized OAuth authentication and authorization to access user's information",
+        "Used a recursive algorithm to traverse a tree data-structure",
+        "Used memoization to increase speed of tree-traversal",
+        "A user can ask the chatbot to manage their own calendar, view their emails, get number of direct-reports an employee has, and get organization of an employee",
+        "Tools used/learned: Javascript, C#, C# Extension Methods, Nuget Package Manager, ASP.Net Core, Visual Studio, Azure, Azure App Hosting Service, Azure Bot Framework, Bot Framework Web Chat, LUIS AI, Machine Learning, Google Analytics, Git, Azure Devops, OAuth, OKTA, Microsoft Graph API, Adaptive Cards, Azure Artifacts, QnA Maker, APIs."
+      ],
+      "skills": [
+        ".NET Core",
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "ASP.NET Web API",
+        "Cloud Computing",
+        "Databases",
+        ".NET Framework",
+        "Entity Framework",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)",
+        "Microsoft Bot Framework"
+      ]
+    },
+    {
+      "name": "Batch Machine Learning Data Processing Console Application",
+      "startDate": "Feb 2019",
+      "endDate": "Sep 2019",
+      "company": "Flex",
+      "description": [
+        "A NodeJS console application to convert large amounts of data from one format to another",
+        "Input data was machine learning data containing chatbot intents and entities",
+        "Output data was an aggregation of all intents to their necessary entities to create an import file for chatbot ML",
+        "Output data also contained test cases to test a chatbot machine learning model",
+        "Worked with a team to make the app work with their chatbot use case",
+        "Saved hours of manual input data work required to test and train a chatbot machine learning model",
+        "Worked with merging existing machine learning entities with custom created entities by users",
+        "Tools used/learned: Javascript, Typescript, VS Code, NodeJS, NPM, LUIS AI, Machine Learning Training & Testing, Automated Testing, String Manipulation, File Reading/Writing, Git, Azure Devops"
+      ],
+      "skills": [
+        "Vanilla JavaScript",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
+      "name": "Online Learning Management System",
+      "startDate": "Feb 2016",
+      "endDate": "Mar 2018",
+      "company": "Flex",
+      "description": [
+        "Lead developer for entire stack of media streaming platform similar to YouTube",
+        "Lived on AWS EC2 Linux servers routed by load balancers, AWS Route 53, and AWS CDNs",
+        "User progress saves so users can continue watching where they left off",
+        "Converted requirements and UI mockups unto a running website",
+        "Created to compete with Lynda.com, Workday Learning, and other learning management systems",
+        "Created admin portal for administrators to enter in new learning content without leaving website",
+        "Helped design and provision the cloud architecture to support worldwide user support",
+        "Created read-replica databases to increase speed of retrieving data",
+        "Tools used: PostgreSQL Database, PG Admin, Database Read Replicas, AWS Relational Database Service (RDS), AWS Aurora, MySQL, SQL, Database Design, Database Normalization, SSH, Unix, Firewalls, AWS EC2, AWS Load Balancers, AWS Route 53, AWS CloudFront, AWS CodeDeploy, AngularJS, Bootstrap, SPA, HTML5 Media streaming, Learning Management Systems (LMSs), NodeJS, ExpressJS, PassportJS, SailsJS, MVC architecture, TypeScript, JavaScript, Browser Sync, OAuth, Auth0, OKTA, Git, GitHub, Devops"
+      ],
+      "skills": [
+        "ASP.NET Core",
+        "Enterprise Solution Design",
+        "Full-Stack Development",
+        "Cloud Computing",
+        "Databases",
+        "Vanilla JavaScript",
+        "System Architecture",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
+      "name": "SVG Ontology Graph",
+      "startDate": "Aug 2016",
+      "endDate": "Mar 2018",
+      "company": null,
+      "url": "https://github.com/AskYous/svg-ontology-graph/blob/master/README.md",
+      "description": "An ontology chart written in TypeScript using a series of vertices and edges. See what an ontology chart is here: https://en.wikipedia.org/wiki/Ontology_chart. See a live demo here: https://askyous.github.io/svg-ontology-graph/.",
+      "skills": [
+        "Vanilla JavaScript",
+        "Front End Engineering Design (FEED)"
+      ]
+    },
+    {
+      "name": "Bigdata analysis on Youtube related videos dataset",
+      "startDate": "Sep 2014",
+      "endDate": "Oct 2014",
+      "company": null,
+      "description": [
+        "Technologies Used: Cloudera CDH4, Hadoop, HDFS, Hive, Hue.",
+        "Designed scripts in Java to convert scattered dataset in one file and to make it compatible with Hive database.",
+        "Fetched and dumped Youtube dataset to HDFS and created Hive database for CSV formatted data.",
+        "Designed various queries on dataset to find some interesting stories based on child parent relationship of related videos."
+      ],
+      "skills": [
+        "Vanilla JavaScript",
+        "Front End Engineering Design (FEED)"
+      ],
+      "hasOtherContributors": true
+    }
+  ],
+  "skills": {
+    "total": 77,
+    "topSkills": [
+      "React.js",
+      "Full-Stack Development",
+      "Agile Project Management",
+      "Scrum"
+    ]
+  },
+  "courses": [
+    {
+      "name": "Assembly Programming",
+      "code": "SE 102",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Calculus I / II / III",
+      "code": "MATH 30 / 31 / 32",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Computer Org & Arch",
+      "code": "SE 102",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Data Struct & Algorithms",
+      "code": "SE 146",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Discrete Math",
+      "code": "Math 42",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Engineering Reports",
+      "code": "ENGR 100W",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Engr Statistics",
+      "code": "ISE 130",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "General Physics I / II",
+      "code": "PHYS 50 / 51",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Information Security",
+      "code": "SE 166",
+      "institution": "San Jose State University",
+      "status": "Currently Taking"
+    },
+    {
+      "name": "Intro to Computer Science",
+      "code": "SE 46A",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Intro to Data Strc",
+      "code": "SE 46B",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Introduction to Databasing",
+      "code": "SE 157A",
+      "institution": "San Jose State University",
+      "status": "Currently Taking"
+    },
+    {
+      "name": "Object Oriented Design",
+      "code": "SE 151",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Ord Differential Equations",
+      "institution": "San Jose State University"
+    },
+    {
+      "name": "Software Engineering I",
+      "institution": "San Jose State University"
+    }
+  ],
+  "recommendations": {
+    "received": [
+      {
+        "name": "Sameer Gupta",
+        "title": "Passionate about Data Analytics | Director at Fivetran | ex-Google, SurveyMonkey, & Salesforce",
+        "connection": "First degree connection",
+        "relationship": "June 4, 2014, Sameer and Yousef studied together",
+        "text": "Yousef is an excellent developer, with a great work ethic. Yousef is someone I can divide a project up with and not have to worry about him completing his work."
+      },
+      {
+        "name": "Manzoor Ahmed",
+        "title": "Software Engineer | Google UX Certified | iOS Developer",
+        "connection": "First degree connection",
+        "relationship": "May 28, 2014, Manzoor and Yousef studied together",
+        "text": "Yousef is not only full of great ideas, but he is also a great team player, always takes the extra step to help his team, to get the job done. He can be a great asset to your company."
+      }
+    ]
+  },
+  "publications": [
+    {
+      "name": "That's It Guys",
+      "url": "http://www.thatsitguys.com/",
+      "hasOtherAuthors": true
+    }
+  ],
+  "languages": [
+    {
+      "name": "English"
+    }
+  ],
+  "interests": {
+    "topVoices": [
+      {
+        "name": "Ethan Mollick",
+        "title": "Associate Professor at The Wharton School. Author of Co-Intelligence",
+        "followers": 352249,
+        "connection": "Third degree connection",
+        "status": "Following"
+      },
+      {
+        "name": "HH Sheikh Mohammed Bin Rashid Al Maktoum",
+        "title": "We are building a new reality for our people, a new future for our children, and a new model of development",
+        "followers": 3443500,
+        "status": "Following"
+      }
+    ],
+    "causes": [
+      "Environment",
+      "Health",
+      "Science and Technology"
+    ]
+  },
+  "activity": {
+    "followers": 365,
+    "recentPosts": 7,
+    "featuredPost": {
+      "content": "I'm excited to announce that I've successfully finished my Agile Project Management Basics (Scrum) & Agile Project Management Essentials (Scrum), along with Agile Certification (Scrum) training at Yesi Education! 👍",
+      "hashtags": [
+        "#AgileProjectManagement",
+        "#Scrum",
+        "#ProfessionalDevelopment"
+      ],
+      "reactions": 21,
+      "comments": 13
+    }
+  },
+  "analytics": {
+    "profileViews": 34,
+    "postImpressions": {
+      "count": 12,
+      "period": "Past 7 days"
+    },
+    "searchAppearances": 15
+  },
+  "_exportMetadata": {
+    "exportDate": "2025-12-25",
+    "source": "LinkedIn Profile Export",
+    "profileUrl": "https://www.linkedin.com/in/askyous/",
+    "note": "This metadata section was added during export and is not part of the original LinkedIn profile data"
+  }
+}
